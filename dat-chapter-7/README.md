@@ -1,0 +1,1 @@
+Contained in the file solution.py are the answers and explanations for the NLP Programming Exercises section of Lesson 7: SVM, CTD and Recap.  There are 5 programming problems in total, the solutions are stacked one on top of the other.  Please run each body of code separately where it indicates.  
